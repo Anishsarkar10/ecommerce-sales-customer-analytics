@@ -49,7 +49,6 @@ How can an e-commerce business understand its revenue drivers, identify valuable
 
 ## Repository Structure
 
-```text
 ecommerce-sales-customer-analytics/
 │
 ├── README.md
@@ -61,7 +60,7 @@ ecommerce-sales-customer-analytics/
 │   └── Ecommerce_Analysis_Solutions.xlsx
 └── 04_Business_Presentation/
     └── Ecommerce_Analytics_Presentation.pptx
-```
+
 
 ## Project Deliverables
 
@@ -83,3 +82,10 @@ ecommerce-sales-customer-analytics/
 This project demonstrates how SQL can be used to analyse relational e-commerce data, calculate business KPIs, identify performance patterns, and translate analytical results into actionable business recommendations.
 
 **Skills Demonstrated:** MySQL, SQL Analytics, Data Analysis, Customer Analytics, Revenue Analysis, Business Insights and Data-Driven Decision Making.
+
+## Project Files
+
+- [Project Questions](01_Project_Questions/Ecommerce_Analysis_Questions.docx)
+- [SQL Queries](02_SQL_Queries/Ecommerce_Analysis_Queries.sql)
+- [Excel Solutions](03_Analysis_Results/Ecommerce_Analysis_Solutions.xlsx)
+- [Business Presentation](04_Business_Presentation/Ecommerce_Analytics_Presentation.pptx)
