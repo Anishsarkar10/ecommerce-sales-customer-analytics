@@ -49,6 +49,7 @@ How can an e-commerce business understand its revenue drivers, identify valuable
 
 ## Repository Structure
 
+```text
 ecommerce-sales-customer-analytics/
 │
 ├── README.md
@@ -60,7 +61,7 @@ ecommerce-sales-customer-analytics/
 │   └── Ecommerce_Analysis_Solutions.xlsx
 └── 04_Business_Presentation/
     └── Ecommerce_Analytics_Presentation.pptx
-
+```
 
 ## Project Deliverables
 
